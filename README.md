@@ -5,7 +5,7 @@
 <h1>Yousef Fayyaz</h1>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=7C3AED&center=true&vCenter=true&width=650&lines=Applied+Machine+Learning+Engineer;NLP+%7C+Computer+Vision+%7C+Reinforcement+Learning;Research+%E2%86%92+Implementation+%E2%86%92+Results;Open+to+AI%2FML+Internships+%26+Junior+Roles" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=7C3AED&center=true&vCenter=true&width=700&lines=MLOps+Engineer+%7C+ML+Platform+Engineer;Kubernetes+%7C+Kubeflow+%7C+Istio+%7C+PyTorch;5%2B+Years+in+Data+Engineering+%26+ML+Systems;ETL%2FELT+%7C+Data+Warehousing+%7C+Research+to+Production" alt="Typing SVG" />
 </a>
 
 <br/><br/>
@@ -16,7 +16,7 @@
 &nbsp;
 <img src="https://img.shields.io/badge/Location-Italy-16a34a?style=for-the-badge" />
 &nbsp;
-<img src="https://img.shields.io/badge/Open_to-AI%2FML_Roles-7C3AED?style=for-the-badge" />
+<img src="https://img.shields.io/badge/MLOps-ML_Platform_Engineer-7C3AED?style=for-the-badge" />
 &nbsp;
 <img src="https://komarev.com/ghpvc/?username=josephfayyaz&style=for-the-badge&color=7C3AED&label=Profile+Views" />
 
@@ -30,11 +30,12 @@ I build ML systems that are **technically solid, reproducible, and easy to evalu
 
 ```python
 yousef = {
-    "focus":      ["NLP", "Computer Vision", "Reinforcement Learning", "MLOps"],
-    "approach":   "research → reproducible implementation → measured results",
-    "strengths":  ["evaluation rigour", "repo clarity", "research translation"],
+    "role":       "MLOps Engineer | ML Platform Engineer",
+    "background": "5+ years in Data Engineering — ETL/ELT, Data Warehousing, Python, SQL",
+    "platform":   ["Kubernetes", "Kubeflow", "Istio", "Katib", "PyTorch"],
+    "ml_focus":   ["NLP", "Computer Vision", "Reinforcement Learning", "ML Systems"],
+    "approach":   "research → reproducible implementation → production-ready pipelines",
     "location":   "Italy 🇮🇹",
-    "seeking":    "AI/ML internship or junior ML engineer role",
 }
 ```
 
