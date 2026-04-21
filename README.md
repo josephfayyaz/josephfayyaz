@@ -1,115 +1,144 @@
-<h1 align="center">Yousef Fayyaz</h1>
+<div align="center">
 
-<p align="center">
-  <strong>Applied Machine Learning Engineer</strong><br />
-  NLP, multimodal computer vision, reinforcement learning, and MLOps
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=160&section=header" />
 
-<p align="center">
-  I build research-driven machine learning systems with an emphasis on reproducibility, evaluation quality, and repository clarity.
-</p>
+<h1>Yousef Fayyaz</h1>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/yousef-fayyaz">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Yousef_Fayyaz-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://github.com/josephfayyaz?tab=repositories">
-    <img alt="Repositories" src="https://img.shields.io/badge/Repositories-Explore-111827?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="https://github.com/josephfayyaz?tab=followers">
-    <img alt="GitHub" src="https://img.shields.io/badge/GitHub-josephfayyaz-24292f?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</p>
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=7C3AED&center=true&vCenter=true&width=650&lines=Applied+Machine+Learning+Engineer;NLP+%7C+Computer+Vision+%7C+Reinforcement+Learning;Research+%E2%86%92+Implementation+%E2%86%92+Results;Open+to+AI%2FML+Internships+%26+Junior+Roles" alt="Typing SVG" />
+</a>
 
-<p align="center">
-  <img alt="Location" src="https://img.shields.io/badge/Location-Italy-16a34a?style=flat-square" />
-  <img alt="Open to Work" src="https://img.shields.io/badge/Open_to-AI%2FML_Internships_and_Junior_Roles-f59e0b?style=flat-square" />
-  <img alt="Focus" src="https://img.shields.io/badge/Focus-Research_to_Production-2563eb?style=flat-square" />
-</p>
+<br/><br/>
 
-## Profile
+<a href="https://www.linkedin.com/in/yousef-fayyaz/">
+  <img src="https://img.shields.io/badge/LinkedIn-Yousef_Fayyaz-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+&nbsp;
+<img src="https://img.shields.io/badge/Location-Italy-16a34a?style=for-the-badge" />
+&nbsp;
+<img src="https://img.shields.io/badge/Open_to-AI%2FML_Roles-7C3AED?style=for-the-badge" />
+&nbsp;
+<img src="https://komarev.com/ghpvc/?username=josephfayyaz&style=for-the-badge&color=7C3AED&label=Profile+Views" />
 
-I focus on building ML projects that are technically solid and easy to evaluate: clear problem definition, structured training pipelines, measurable results, and documentation that helps other engineers review the work quickly.
+</div>
 
-My recent work spans:
+---
 
-- sarcasm and sentiment classification across English varieties using encoder, decoder, and adapter-based NLP pipelines
-- multimodal wildfire burned-area prediction from pre-fire satellite, terrain, weather, and infrastructure inputs
-- robust locomotion transfer in MuJoCo with PPO, curriculum domain randomization, and entropy scheduling
-- local MLOps infrastructure using Kubernetes, Istio, Katib, and browser-based development workflows
+## 🧠 About Me
 
-## Selected Work
+I build ML systems that are **technically solid, reproducible, and easy to evaluate** — clear problem framing, structured pipelines, measurable results.
+
+```python
+yousef = {
+    "focus":      ["NLP", "Computer Vision", "Reinforcement Learning", "MLOps"],
+    "approach":   "research → reproducible implementation → measured results",
+    "strengths":  ["evaluation rigour", "repo clarity", "research translation"],
+    "location":   "Italy 🇮🇹",
+    "seeking":    "AI/ML internship or junior ML engineer role",
+}
+```
+
+---
+
+## 🛠️ Tech Stack
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=python,pytorch,sklearn,docker,kubernetes,git,linux,vscode&theme=dark" />
+
+</div>
+
+<br/>
+
+<div align="center">
+
+| Area | Tools |
+|:-----|:------|
+| **ML & AI** | `Python` `PyTorch` `Transformers` `QLoRA` `Scikit-learn` |
+| **Domains** | `NLP` `Computer Vision` `Remote Sensing` `Multimodal` `RL` |
+| **Systems** | `Kubernetes` `Docker` `Istio` `Katib` `kind` `Git` |
+| **Frontend** | `Vue 3` `Pinia` `Tailwind CSS` |
+
+</div>
+
+---
+
+## 🚀 Featured Projects
 
 <table>
   <tr>
     <td valign="top" width="50%">
-      <h3><a href="https://github.com/josephfayyaz/sarcasm-detection-nlp">sarcasm-detection-nlp</a></h3>
-      <p>Unified experimentation repo for sarcasm and sentiment classification across multiple model families and English varieties.</p>
-      <p><strong>Stack:</strong> Python, Transformers, RoBERTa, DistilBERT, Mistral, QLoRA, VAAT</p>
-      <p><strong>Highlights:</strong> config-first pipelines, custom heads, adapter tuning, evaluation, plotting, and error analysis on a <code>17,760</code> train / <code>2,428</code> validation dataset.</p>
+      <h3>🗣️ <a href="https://github.com/josephfayyaz/sarcasm-detection-nlp">sarcasm-detection-nlp</a></h3>
+      <p>Unified NLP experimentation for sarcasm & sentiment classification across model families and English varieties.</p>
+      <p>
+        <img src="https://img.shields.io/badge/RoBERTa-9ecae1?style=flat-square" />
+        <img src="https://img.shields.io/badge/QLoRA-8b5cf6?style=flat-square" />
+        <img src="https://img.shields.io/badge/Transformers-FF6F00?style=flat-square" />
+        <img src="https://img.shields.io/badge/VAAT-f472b6?style=flat-square" />
+      </p>
+      <p>📊 <code>17,760</code> train / <code>2,428</code> val · config-first pipelines · custom heads · adapter tuning</p>
     </td>
     <td valign="top" width="50%">
-      <h3><a href="https://github.com/josephfayyaz/WildFire">WildFire</a></h3>
-      <p>Multimodal geospatial computer vision project for predicting final burned area from pre-fire observations.</p>
-      <p><strong>Stack:</strong> Python, PyTorch, remote sensing, EfficientNet, FPN</p>
-      <p><strong>Results:</strong> best multimodal model reached <code>IoU 0.4026</code> and <code>F1 0.5741</code>, versus a Sentinel-only baseline at <code>IoU 0.1515</code> and <code>F1 0.2632</code>.</p>
+      <h3>🔥 <a href="https://github.com/josephfayyaz/WildFire">WildFire</a></h3>
+      <p>Multimodal geospatial CV predicting burned area from pre-fire satellite, terrain, weather & infrastructure data.</p>
+      <p>
+        <img src="https://img.shields.io/badge/EfficientNet-22c55e?style=flat-square" />
+        <img src="https://img.shields.io/badge/FPN-3b82f6?style=flat-square" />
+        <img src="https://img.shields.io/badge/Remote_Sensing-ef4444?style=flat-square" />
+        <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" />
+      </p>
+      <p>📈 IoU <code>0.1515 → 0.4026</code> · F1 <code>0.2632 → 0.5741</code> vs Sentinel-only baseline</p>
     </td>
   </tr>
   <tr>
     <td valign="top" width="50%">
-      <h3><a href="https://github.com/josephfayyaz/RL">RL</a></h3>
-      <p>MuJoCo Hopper transfer-learning research on robust locomotion under dynamics shift.</p>
-      <p><strong>Stack:</strong> Python, MuJoCo, PPO, robust RL, evaluation tooling</p>
-      <p><strong>Results:</strong> <code>PPO + CDR + ES</code> improved cumulative return by <code>72%</code> over vanilla PPO and achieved more than <code>4x</code> the return of PPO with uniform domain randomization.</p>
+      <h3>🤸 <a href="https://github.com/josephfayyaz/RL">RL</a></h3>
+      <p>MuJoCo Hopper robust locomotion transfer under dynamics shift — PPO + curriculum domain randomization + entropy scheduling.</p>
+      <p>
+        <img src="https://img.shields.io/badge/PPO-1e3a8a?style=flat-square" />
+        <img src="https://img.shields.io/badge/MuJoCo-475569?style=flat-square" />
+        <img src="https://img.shields.io/badge/Transfer_RL-0d9488?style=flat-square" />
+        <img src="https://img.shields.io/badge/Curriculum_DR-7c3aed?style=flat-square" />
+      </p>
+      <p>📈 <code>+72%</code> return over vanilla PPO · <code>4×</code> over uniform domain randomization</p>
     </td>
     <td valign="top" width="50%">
-      <h3><a href="https://github.com/josephfayyaz/ML_Ops">ML_Ops</a></h3>
-      <p>Laptop MLOps lab that provisions a private-cloud style ML workflow on top of a local Kubernetes cluster.</p>
-      <p><strong>Stack:</strong> Python, Kubernetes, kind, MetalLB, Istio, Katib, Docker</p>
-      <p><strong>Highlights:</strong> end-to-end local platform setup with deployment runbooks, architecture docs, browser IDE access, and experiment infrastructure.</p>
+      <h3>⚙️ <a href="https://github.com/josephfayyaz/ML_Ops">ML_Ops</a></h3>
+      <p>Private-cloud-style ML workflow on a local Kubernetes cluster — experiment infrastructure, deployment runbooks, browser IDE.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" />
+        <img src="https://img.shields.io/badge/Istio-466BB0?style=flat-square&logo=istio&logoColor=white" />
+        <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+        <img src="https://img.shields.io/badge/Katib-f97316?style=flat-square" />
+      </p>
+      <p>🏗️ kind · MetalLB · Katib · end-to-end local ML infrastructure</p>
     </td>
   </tr>
 </table>
 
-## What I Bring
-
-- end-to-end ML experimentation: data handling, training, evaluation, diagnostics, and reporting
-- research translation: converting academic ideas into reproducible implementations
-- repository quality: readable project structure, documentation, and evidence-backed results
-- technical range: NLP, computer vision, reinforcement learning, geospatial ML, and ML systems
-
-## Technical Toolkit
-
-| Area | Tools |
-| --- | --- |
-| ML & AI | `Python`, `PyTorch`, `Transformers`, `QLoRA`, `Scikit-learn`, `Jupyter` |
-| Domains | `NLP`, `Computer Vision`, `Remote Sensing`, `Multimodal Learning`, `Reinforcement Learning` |
-| Systems | `Kubernetes`, `kind`, `Istio`, `Katib`, `Docker`, `Git` |
-| Frontend | `Vue 3`, `Pinia`, `Tailwind CSS` |
-
-## Roles I Am Targeting
-
-- AI/ML internship
-- Junior machine learning engineer
-- Applied machine learning engineer
-- Research engineering or research assistant role
-
-## Where To Start
-
-If you are reviewing my profile for hiring, these are the best entry points:
-
-- [sarcasm-detection-nlp](https://github.com/josephfayyaz/sarcasm-detection-nlp) for NLP experimentation and model comparison
-- [WildFire](https://github.com/josephfayyaz/WildFire) for multimodal computer vision and geospatial ML
-- [RL](https://github.com/josephfayyaz/RL) for reinforcement learning, robustness, and transfer learning
-- [ML_Ops](https://github.com/josephfayyaz/ML_Ops) for infrastructure thinking and MLOps workflow design
-
-## GitHub Snapshot
-
-<p>
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=josephfayyaz&show_icons=true&hide_border=true&rank_icon=github" alt="GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=josephfayyaz&layout=compact&hide_border=true" alt="Top languages" />
-</p>
+**Best entry points for reviewers:** [NLP](https://github.com/josephfayyaz/sarcasm-detection-nlp) · [Computer Vision](https://github.com/josephfayyaz/WildFire) · [RL](https://github.com/josephfayyaz/RL) · [MLOps](https://github.com/josephfayyaz/ML_Ops)
 
 ---
 
-I am most interested in teams where strong implementation, clear documentation, and measurable ML results matter as much as model choice.
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=josephfayyaz&show_icons=true&hide_border=true&theme=tokyonight&rank_icon=github&include_all_commits=true" />
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=josephfayyaz&layout=compact&hide_border=true&theme=tokyonight&hide=Jupyter%20Notebook" />
+
+</div>
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=josephfayyaz&theme=tokyonight&hide_border=true" />
+
+</div>
+
+---
+
+<div align="center">
+<i>Most interested in teams where strong implementation, clear documentation, and measurable ML results matter as much as model choice.</i>
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" />
